@@ -2,7 +2,7 @@
   "name": "fitnessbuddy",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://ssmoorthys.github.io/fitnessbuddy",
+  "homepage": "https://ssmoorthys.github.io/fitnessbuddy/",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
